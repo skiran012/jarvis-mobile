@@ -1,0 +1,7 @@
+anthropic>=0.40
+gradio>=5.0,<6
+faster-whisper>=1.0
+edge-tts>=6.1
+gTTS>=2.5
+nest_asyncio>=1.6
+requests>=2.31
